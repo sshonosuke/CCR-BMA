@@ -4,5 +4,5 @@ Ito, T. and Sugasawa, S. (2020). Improved Confidence Regions in Meta-analysis of
 
 The repository includes the following 2 files.
 
-CCR-BMA-function.R : The script implementing the proposed method
-Example.R : The script applying the proposed method to AuditC data available at "mada" package 
+* CCR-BMA-function.R : The script implementing the proposed method
+* Example.R : The script applying the proposed method to AuditC data available at "mada" package 
